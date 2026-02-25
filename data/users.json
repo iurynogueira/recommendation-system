@@ -1,0 +1,79 @@
+[
+    {
+        "id": 1,
+        "name": "Ana Lima",
+        "age": 25,
+        "purchases": [
+            {
+                "id": 1,
+                "name": "Fibra 100 Mega",
+                "category": "fibra",
+                "price": 79.90
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Bruno Ferreira",
+        "age": 27,
+        "purchases": [
+            {
+                "id": 2,
+                "name": "Fibra 200 Mega",
+                "category": "fibra",
+                "price": 99.90
+            },
+            {
+                "id": 4,
+                "name": "Chip 5G Ilimitado",
+                "category": "movel",
+                "price": 29.90
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "name": "Camila Souza",
+        "age": 30,
+        "purchases": [
+            {
+                "id": 3,
+                "name": "Fibra 500 Mega",
+                "category": "fibra",
+                "price": 149.90
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "name": "Diego Almeida",
+        "age": 22,
+        "purchases": [
+            {
+                "id": 1,
+                "name": "Fibra 100 Mega",
+                "category": "fibra",
+                "price": 79.90
+            },
+            {
+                "id": 4,
+                "name": "Chip 5G Ilimitado",
+                "category": "movel",
+                "price": 29.90
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "name": "Eduarda Nunes",
+        "age": 28,
+        "purchases": [
+            {
+                "id": 2,
+                "name": "Fibra 200 Mega",
+                "category": "fibra",
+                "price": 99.90
+            }
+        ]
+    }
+]

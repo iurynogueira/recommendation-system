@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "name": "Fibra 100 Mega",
+        "category": "fibra",
+        "price": 79.90
+    },
+    {
+        "id": 2,
+        "name": "Fibra 200 Mega",
+        "category": "fibra",
+        "price": 99.90
+    },
+    {
+        "id": 3,
+        "name": "Fibra 500 Mega",
+        "category": "fibra",
+        "price": 149.90
+    },
+    {
+        "id": 4,
+        "name": "Chip 5G Ilimitado",
+        "category": "movel",
+        "price": 29.90
+    }
+]
