@@ -1,6 +1,6 @@
-# E-commerce Recommendation System
+# Telco Plan Recommendation System
 
-A web application that displays user profiles and product listings, with the ability to track user purchases for future machine learning recommendations using TensorFlow.js.
+A web application that displays user profiles and product listings, with the ability to track user plan purchases for future machine learning recommendations using TensorFlow.js.
 
 ## Project Structure
 
@@ -14,11 +14,13 @@ A web application that displays user profiles and product listings, with the abi
 ## Setup and Run
 
 1. Install dependencies:
+
 ```
 npm install
 ```
 
 2. Start the application:
+
 ```
 npm start
 ```
@@ -28,7 +30,7 @@ npm start
 ## Features
 
 - User profile selection with details display
-- Past purchase history display
+- Past plan purchase history display
 - Product listing with "Buy Now" functionality
 - Purchase tracking using sessionStorage
 
